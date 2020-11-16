@@ -3,5 +3,5 @@ name=iOS Emojis
 version=v1.0
 versionCode=1
 author=Voxan24
-description=Systemlessly replaces your default emojis with the iOS 13.2 emojis.
+description=Systemlessly replaces your default emojis with the iOS 14.2 emojis.
 minMagisk=17000

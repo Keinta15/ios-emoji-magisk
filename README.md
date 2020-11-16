@@ -7,6 +7,7 @@ Systemlessly replaces the system emoji font with Apple's iOS 13.2 emojis.
 
 ## Changelog
 * v1.0 - Initial release (Ios 13.2)
+* v2.0 - Ios 14.2
 
 ## Original work 
 https://github.com/tychoregter/ios13emoji

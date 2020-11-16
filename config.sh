@@ -41,7 +41,7 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "       iOS 13.2 Emojji       "
+  ui_print "       iOS 14.2 Emojji       "
   ui_print "*******************************"
 }
 
